@@ -3,3 +3,4 @@ Změna 1
 Změna 2 (server)
 Změna 3 (local)
 Změna 4 (server)
+Změna 6 (server)
