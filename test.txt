@@ -1,4 +1,5 @@
 sample text
-Zmìna 1
-Zmìna 2 (server)
-Zmìna 3 (local)
+ZmÄ›na 1
+ZmÄ›na 2 (server)
+ZmÄ›na 3 (local)
+ZmÄ›na 4 (server)
