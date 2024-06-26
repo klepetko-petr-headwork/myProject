@@ -1,3 +1,4 @@
 sample text
-Změna 1
-Změna 3 (local)
+ZmÄ›na 1
+ZmÄ›na 2 (server)
+ZmÄ›na 3 (local)
