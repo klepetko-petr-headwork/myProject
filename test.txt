@@ -1,4 +1,4 @@
 sample text
-ZmÄ›na 1
-ZmÄ›na 2 (server)
-ZmÄ›na 3 (local)
+Zm�na 1
+Zm�na 2 (server)
+Zm�na 3 (local)
