@@ -1,6 +1,7 @@
 sample text
-Změna 1
-Změna 2 (server)
-Změna 3 (local)
-Změna 4 (server)
-Změna 5 (local)
+ZmÄ›na 1
+ZmÄ›na 2 (server)
+ZmÄ›na 3 (local)
+ZmÄ›na 4 (server)
+ZmÄ›na 5 (local)
+ZmÄ›na 6 (server)
