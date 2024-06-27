@@ -1,8 +1,9 @@
 sample text
-ZmÄ›na 1
-ZmÄ›na 2 (server)
-ZmÄ›na 3 (local)
-ZmÄ›na 4 (server)
-ZmÄ›na 5 (local)
-ZmÄ›na 6 (server)
-ZmÄ›na 7 (local)
+ZmĂ„â€şna 1
+ZmĂ„â€şna 2 (server)
+ZmĂ„â€şna 3 (local)
+ZmĂ„â€şna 4 (server)
+ZmĂ„â€şna 5 (local)
+ZmĂ„â€şna 6 (server)
+ZmĂ„â€şna 7 (local)
+ZmÄ›na 8 (server)
